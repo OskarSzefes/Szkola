@@ -6,3 +6,7 @@ no projekt szkolny nie bede sie rozpisywał chociaz mam czas i checi na to choci
 
 ## Mały konflikt
 ## siema to ja 
+
+
+
+## super sie bawie
