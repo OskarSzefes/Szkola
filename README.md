@@ -5,3 +5,4 @@ no projekt szkolny nie bede sie rozpisywał chociaz mam czas i checi na to choci
 ## Kacper Zawojski Edits
 
 ## Mały konflikt
+## siema to ja 
