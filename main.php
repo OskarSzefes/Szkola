@@ -54,6 +54,7 @@
     <div class="folders-wrapper">
   <div class="folder" >
     <h2 class="napis1">NEW's</h2>
+    <a href="./news.php">
     <img src="nowo.png" class="zdjnowe" alt>
      </div>
   <div class="folder">
