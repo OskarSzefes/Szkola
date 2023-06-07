@@ -19,7 +19,7 @@
         <div class="slang">
         <img src="logoej.png" alt=""> 
         </div>   
- 
+</a>
     </div>   
  
  
@@ -57,6 +57,7 @@
     <h2 class="napis1">NEW's</h2>
     <a href="./news.php">
     <img src="nowo.png" class="zdjnowe" alt>
+</a>  
      </div>
   <div class="folder">
   <h2 class="napis1">SHOP</h2>
