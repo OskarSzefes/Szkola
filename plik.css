@@ -352,3 +352,42 @@ header label:hover {
   background-image: url("bulletpart111.png");
   width: auto;
 }
+/*/////////////////////////////////////////*/
+.mainNews{
+  width: 100%;
+  height: auto;
+ 
+  background-image: url("bulletpart1.png");
+  margin-top: -60px;
+}
+.textNews{
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #0000006f;
+  margin-top: 50px;
+}
+.h1News
+{
+  color: white;
+  font-size: 60px;
+}
+
+.pNews{
+  color: white;
+  font-size: 35px;
+}
+body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(127, 102, 57);        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 0, 0);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid rgb(0, 0, 0);  /* creates padding around scroll thumb */
+}

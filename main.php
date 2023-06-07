@@ -12,6 +12,7 @@
 <body>
  
     <div class="navMain">
+    <a href="./main.php">
     <div class="nab">
         <img src="logonab.png" alt=""> 
         </div>
