@@ -17,7 +17,7 @@
 
     <div class="navMain">
         <div class="nab">
-            <a href="main.php"> <img src="logonab.png" alt=""></a>
+            <a href="index.php"> <img src="logonab.png" alt=""></a>
         </div>
         <div class="slang">
             <img src="logoej.png" alt="">
