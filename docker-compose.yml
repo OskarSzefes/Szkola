@@ -7,9 +7,9 @@ services:
     image: mysql:5.7
     environment:
       MYSQL_ROOT_PASSWORD: my_secret_pw_shh
-      MYSQL_DATABASE: test_db
-      MYSQL_USER: devuser
-      MYSQL_PASSWORD: devpass
+      MYSQL_DATABASE: l&l
+      MYSQL_USER: root
+      MYSQL_PASSWORD: my_secret_pw_shh
     ports:
       - "9906:3306"
   web:
