@@ -66,7 +66,7 @@ if (empty($_SESSION['login']) || $_SESSION['login'] != 'Admin') {
         }
         ?></br></br>
 
-        <!-- <label>Opis produktu:</label></br> -->
+        <label>Opis produktu:</label></br>
         <textarea name="text" rows="4" cols="50"></textarea></br></br>
 
 
