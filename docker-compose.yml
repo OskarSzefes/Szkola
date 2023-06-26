@@ -8,18 +8,18 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: my_secret_pw_shh
       MYSQL_DATABASE: l&l
-      MYSQL_USER: root
+      MYSQL_USER: roots
       MYSQL_PASSWORD: my_secret_pw_shh
     ports:
-      - "9906:3306"
+      - "9907:3306"
   web:
     image: php:7.2.2-apache
-    container_name: php_web
+    container_name: szkola
     depends_on:
       - db
     volumes:
       - ./php/:/var/www/html/
     ports:
-      - "8100:80"
+      - "8200:80"
     stdin_open: true
     tty: true
